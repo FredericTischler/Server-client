@@ -1,0 +1,29 @@
+Command result : 
+total 128
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 Client
+-rwxrwxr-x 1 kheesi kheesi 17792 janv. 26 11:08 cmd
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 CommandLauncher
+-rw-rw-r-- 1 kheesi kheesi     0 janv. 26 11:09 error.txt
+-rwxrwxr-x 1 kheesi kheesi 17536 janv. 26 11:08 launch
+-rw-rw-r-- 1 kheesi kheesi  1461 déc.   9 23:23 Makefile
+drwxrwxr-x 2 kheesi kheesi  4096 déc.  21 15:40 Manuels
+-rw-rw-r-- 1 kheesi kheesi     0 janv. 26 11:09 output.txt
+-rw-rw-r-- 1 kheesi kheesi 67909 déc.  30 23:21 project_archive.tar.gz
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 SynchronizedQueue
+
+Command result : 
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 Client
+
+Command result : 
+total 132
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 Client
+-rwxrwxr-x 1 kheesi kheesi 17792 janv. 26 11:08 cmd
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 CommandLauncher
+-rw-rw-r-- 1 kheesi kheesi     0 janv. 26 11:09 error.txt
+-rwxrwxr-x 1 kheesi kheesi 17536 janv. 26 11:08 launch
+-rw-rw-r-- 1 kheesi kheesi  1461 déc.   9 23:23 Makefile
+drwxrwxr-x 2 kheesi kheesi  4096 déc.  21 15:40 Manuels
+-rw-rw-r-- 1 kheesi kheesi   699 janv. 26 11:11 output.txt
+-rw-rw-r-- 1 kheesi kheesi 67909 déc.  30 23:21 project_archive.tar.gz
+drwxrwxr-x 2 kheesi kheesi  4096 janv. 26 11:08 SynchronizedQueue
+
